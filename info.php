@@ -1,6 +1,6 @@
 <?php
 phpinfo();
 
-echo "Welcome to India";
+echo "Welcome to India......";
 
 ?>
